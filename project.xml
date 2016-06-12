@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update appID="TimeTrackAndPayCal"> 
         <version>2.0.0.0</version>
-        <url>http://www68.zippyshare.com/d/BpbfLmDQ/4862013/TimeTrackAndPayCal.exe</url> 
+        <url>https://raw.githubusercontent.com/Dan107/TimeTrackAndPayCal/master/TimeTrackAndPayCal.exe</url> 
         <fileName>TimeTrackAndPayCal.exe</fileName> 
         <md5>fbb9de18821fe5280183594e5950af3f</md5>
         <description></description> 
