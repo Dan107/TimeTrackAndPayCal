@@ -9,9 +9,9 @@
         <launchArgs></launchArgs> 
     </update>
      <update appID="TimeTrackAndPayCal"> 
-        <version>1.0.0.0</version>
-        <url>https://raw.githubusercontent.com/Dan107/TimeTrackAndPayCal/master/TimeTrackAndPayCal.exe</url> 
-        <fileName>TimeTrackAndPayCal.exe</fileName> 
+        <version>1.0.0.1</version>
+        <url>https://raw.githubusercontent.com/Dan107/TimeTrackAndPayCal/master/SharpUpdate.dll</url> 
+        <fileName>SharpUpdate.dll</fileName> 
         <md5>fbb9de18821fe5280183594e5950af3f</md5>
         <description></description> 
         <launchArgs></launchArgs> 
