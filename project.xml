@@ -1,11 +1,11 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="TimeTrackAndPayCal"> 
-        <version>1.0.0.0</version>
+        <version>1.0.0.1</version>
         <url>https://raw.githubusercontent.com/Dan107/TimeTrackAndPayCal/master/TimeTrackAndPayCal.exe</url> 
         <fileName>TimeTrackAndPayCal.exe</fileName> 
-        <md5>fbb9de18821fe5280183594e5950af3f</md5>
-        <description></description> 
+        <md5>EED32210BA44D930120A95EB2EC01F03</md5>
+        <description>Fix: stop infomation box being filled more then once</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
