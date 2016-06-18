@@ -4,7 +4,7 @@
         <version>1.0.0.1</version>
         <url>https://raw.githubusercontent.com/Dan107/TimeTrackAndPayCal/master/TimeTrackAndPayCal.exe</url> 
         <fileName>TimeTrackAndPayCal.exe</fileName> 
-        <md5>4e8198c30ccabd17c11c95e7dad58311</md5>
+        <md5>9b4187229243e5e0945f1971e99c480c</md5>
         <description>Fix: stop infomation box being filled more then once
                      Fix: after update setting cpoying
         </description> 
