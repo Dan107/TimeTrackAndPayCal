@@ -4,9 +4,12 @@
         <version>2.0.0.1</version>
         <url>https://raw.githubusercontent.com/Dan107/TimeTrackAndPayCal/master/TimeTrackAndPayCal.exe</url> 
         <fileName>TimeTrackAndPayCal.exe</fileName> 
-        <md5>50c6b41f78a550a6feaee47816d72891</md5>
-        <description>Fix: stop infomation box being filled more then once
+        <md5>f81794b667e1fef4b03333979d5eba01</md5>
+        <description>
+                    Fix: stop infomation box being filled more then once
                      Fix: after update setting cpoying
+                     Add: print Month
+                     Add: Improvments and ideas form
         </description> 
         <launchArgs></launchArgs> 
     </update>
